@@ -1,5 +1,10 @@
 # Api for Loan chat bot demos
 
+## Basic functionality
+* Check Loan Eligibility
+* Book loan if eligible
+* Check loan repayment balance
+* Validate Bank information
  
 ## Built with
 * Nodejs
